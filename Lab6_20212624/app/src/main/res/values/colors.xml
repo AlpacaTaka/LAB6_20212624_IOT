@@ -2,4 +2,38 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores principales celeste -->
+    <color name="primary_blue">#00BCD4</color>
+    <color name="primary_blue_dark">#0097A7</color>
+    <color name="primary_blue_light">#B2EBF2</color>
+
+    <!-- Colores de acento -->
+    <color name="accent_blue">#00ACC1</color>
+    <color name="accent_blue_light">#4DD0E1</color>
+
+    <!-- Colores de fondo -->
+    <color name="background_white">#FFFFFF</color>
+    <color name="background_light">#F5F5F5</color>
+    <color name="background_card">#FAFAFA</color>
+
+    <!-- Colores de texto -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_hint">#BDBDBD</color>
+
+    <!-- Colores de estado -->
+    <color name="success_green">#4CAF50</color>
+    <color name="error_red">#F44336</color>
+    <color name="warning_orange">#FF9800</color>
+
+    <!-- Colores para gráficos -->
+    <color name="chart_gasolina">#FF6B6B</color>
+    <color name="chart_glp">#4ECDC4</color>
+    <color name="chart_gnv">#95E1D3</color>
+
+    <!-- Transparencias -->
+    <color name="overlay_dark">#80000000</color>
+    <color name="divider">#E0E0E0</color>
 </resources>

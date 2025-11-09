@@ -1,3 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lab6_20212624</string>
+    <string name="app_name">Monitor Combustible</string>
+
+    <!-- Login y Registro -->
+    <string name="welcome">Bienvenido</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="no_account">¿No tienes cuenta?</string>
+    <string name="already_have_account">¿Ya tienes cuenta?</string>
+    <string name="login_here">Inicia sesión aquí</string>
+    <string name="or_continue_with">O continuar con</string>
+    <string name="google_sign_in">Continuar con Google</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="full_name">Nombre completo</string>
+
+    <!-- Navegación -->
+    <string name="my_vehicles">Mis Vehículos</string>
+    <string name="records">Registros</string>
+    <string name="summary">Resumen</string>
+    <string name="logout">Cerrar Sesión</string>
+
+    <!-- Vehículos -->
+    <string name="add_vehicle">Agregar Vehículo</string>
+    <string name="edit_vehicle">Editar Vehículo</string>
+    <string name="vehicle_id">ID del Vehículo (Nickname)</string>
+    <string name="license_plate">Placa</string>
+    <string name="brand_model">Marca / Modelo</string>
+    <string name="year">Año de Fabricación</string>
+    <string name="technical_review_date">Fecha de Revisión Técnica</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+    <string name="edit">Editar</string>
+    <string name="no_vehicles">No hay vehículos registrados</string>
+    <string name="generate_qr">Generar QR</string>
+
+    <!-- Registros de Combustible -->
+    <string name="add_record">Agregar Registro</string>
+    <string name="edit_record">Editar Registro</string>
+    <string name="record_id">ID del Registro</string>
+    <string name="associated_vehicle">Vehículo Asociado</string>
+    <string name="date">Fecha</string>
+    <string name="liters">Litros Cargados</string>
+    <string name="current_mileage">Kilometraje Actual</string>
+    <string name="total_price">Precio Total</string>
+    <string name="fuel_type">Tipo de Combustible</string>
+    <string name="gasoline">Gasolina</string>
+    <string name="lpg">GLP</string>
+    <string name="cng">GNV</string>
+    <string name="filter">Filtrar</string>
+    <string name="filter_by_vehicle">Filtrar por Vehículo</string>
+    <string name="filter_by_date">Filtrar por Fecha</string>
+    <string name="start_date">Fecha Inicio</string>
+    <string name="end_date">Fecha Fin</string>
+    <string name="apply_filters">Aplicar Filtros</string>
+    <string name="clear_filters">Limpiar Filtros</string>
+    <string name="no_records">No hay registros de combustible</string>
+    <string name="select_vehicle">Seleccionar vehículo</string>
+
+    <!-- Resumen -->
+    <string name="monthly_consumption">Consumo Mensual (Litros)</string>
+    <string name="consumption_by_fuel_type">Consumo por Tipo de Combustible</string>
+    <string name="no_data_available">No hay datos disponibles</string>
+
+    <!-- QR Generator -->
+    <string name="qr_title">Código QR - Revisión Técnica</string>
+    <string name="vehicle_plate">Placa del Vehículo:</string>
+    <string name="last_mileage">Último Kilometraje:</string>
+    <string name="last_review">Última Revisión Técnica:</string>
+
+    <!-- Mensajes -->
+    <string name="error_empty_fields">Por favor completa todos los campos</string>
+    <string name="error_invalid_email">Correo electrónico inválido</string>
+    <string name="error_password_mismatch">Las contraseñas no coinciden</string>
+    <string name="error_short_password">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="success_login">Inicio de sesión exitoso</string>
+    <string name="success_register">Registro exitoso</string>
+    <string name="success_saved">Guardado exitosamente</string>
+    <string name="success_deleted">Eliminado exitosamente</string>
+    <string name="error_mileage_invalid">El kilometraje debe ser mayor al último registrado</string>
+    <string name="confirm_delete">¿Estás seguro de eliminar?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="error_occurred">Ocurrió un error</string>
+    <string name="km">km</string>
+    <string name="liters_short">L</string>
+    <string name="currency">S/</string>
+    <string name="default_web_client_id">REPLACE_WITH_CLIENT_ID</string>
 </resources>
